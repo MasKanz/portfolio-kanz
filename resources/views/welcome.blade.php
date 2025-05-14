@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Kanz Bootstrap Template</title>
+  <title>Kanz Portfolio</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -91,13 +91,13 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section">
 
-      <img src="{{asset('asset/img/hero-bg.jpg')}}" alt="" data-aos="fade-in">
+      <img src="{{asset('asset/img/hero-bg-img.jpg')}}" alt="" data-aos="fade-in">
 
       <div class="container text-center" data-aos="zoom-out" data-aos-delay="100">
         <div class="row justify-content-center">
           <div class="col-lg-8">
-            <h2>Kanz Abiyu Alkautsar</h2>
-            <p>I'm a web developer from Depok, West Java</p>
+            <h2 style="color: white;">Kanz Abiyu Alkautsar</h2>
+            <p style="color: white;"> I'm a web developer from Depok, West Java</p>
             <a href="about.html" class="btn-get-started">About Me</a>
           </div>
         </div>
